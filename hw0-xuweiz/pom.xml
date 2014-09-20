@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f14.hw0</groupId>
 	<artifactId>hw0-xuweiz</artifactId>
-	<version>0.0.7-SNAPSHOT</version>
+	<version>0.0.7</version>
 	<scm>
 		<connection>scm:git:git@github.com:krypton321/hw0-xuweiz.git</connection>
 		<developerConnection>scm:git:git@github.com:krypton321/hw0-xuweiz.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>hw0-xuweiz-0.0.7</tag>
   </scm>
 	<repositories>
 		<repository>
