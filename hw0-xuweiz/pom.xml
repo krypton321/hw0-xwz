@@ -4,8 +4,8 @@
 	<artifactId>hw0-xuweiz</artifactId>
 	<version>0.0.8-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com:krypton321/hw0-xuweiz.git</connection>
-		<developerConnection>scm:git:git@github.com:krypton321/hw0-xuweiz.git</developerConnection>
+		<connection>scm:git:git@github.com:krypton321/hw0-xwz.git</connection>
+		<developerConnection>scm:git:git@github.com:krypton321/hw0-xwz.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	<repositories>
